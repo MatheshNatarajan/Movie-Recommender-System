@@ -1,4 +1,7 @@
-# Movie Recommender System
+Movie Recommender System
+![nm1](https://github.com/user-attachments/assets/da2a68ac-8799-4033-a27e-68043e5684af)
+![nm2](https://github.com/user-attachments/assets/7b52756d-c48f-4c3a-a3af-22074cec18db)
+
 
 Unlock Your Next Favorite Film! Our NLP-powered Movie Recommendation Web App delivers tailored suggestions based on cast, genres, and production companies. Explore a seamless Streamlit interface, also, you can see the description of selected movies and access a list of all movies.
 
@@ -13,30 +16,6 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 ![Sample Image 2](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/ff4fd4bd-1cf3-4580-9614-67e8698b45e5)
 
 
-**Description Page:** Explore essential movie details and information about the cast.
-
-
-![Sample Image 3](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/beb53c76-4cd1-466d-b32d-97a63555c043)
-![Sample Image 4](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/bb6915a7-8c49-4bd8-ade9-45caeb701d75)
-
-
-**Check All Movies Page:** Navigate between pages with ease using buttons or the slider.
-
-
-![Sample Image 5](https://github.com/AnupamMittal-21/Movie-Recommender-System/assets/96871662/02473070-91cf-45a0-8016-eee8b70ee2ae)
-
-
-## Watch the Demo
-
-
-For a live demonstration of our Movie Recommender System, watch the following video:
-[![Watch the Demo](https://img.youtube.com/vi/0BJgu4qZqOM/0.jpg)](https://youtu.be/0BJgu4qZqOM)
-
-
-## Try the App
-
-Explore the Movie Recommender System yourself! Our app is deployed on Streamlit. Click the link below to get started:
-[**Movie Recommender System App**](https://movie-recommender-syst.streamlit.app/)
 
 ## Installation Guide
 
